@@ -46,19 +46,3 @@ function buttonAnimation(currentKey) {
     }, 100)
 }
 
-//Practice of EventListener
-// function eventThatHappened(typeofevent, callback) {
-//     const anotherEventListener = {
-//         eventType: "keypress",
-//         key: "p"
-//     }
-
-//     if (anotherEventListener.eventType === typeofevent) {
-//         callback(anotherEventListener)
-//     }
-// }
-
-// eventThatHappened("keypress", function (evt) {
-//     console.log(evt);
-// })
-
